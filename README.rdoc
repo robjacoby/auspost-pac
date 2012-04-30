@@ -1,6 +1,6 @@
 = auspost-pac
 
-Description goes here.
+Gem for AusPost Postage Assessment Calculator - Making it easy to calculate shipping
 
 == Contributing to auspost-pac
  

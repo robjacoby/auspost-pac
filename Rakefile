@@ -17,9 +17,9 @@ Jeweler::Tasks.new do |gem|
   gem.name = "auspost-pac"
   gem.homepage = "http://github.com/robjacoby/auspost-pac"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "craiz.rob@gmail.com"
+  gem.summary = %Q{AusPost Postage Assessment Calculator}
+  gem.description = %Q{Gem for AusPost Postage Assessment Calculator - Making it easy to calculate shipping}
+  gem.email = "rob@robjacoby.com.au"
   gem.authors = ["Rob Jacoby"]
   # dependencies defined in Gemfile
 end
